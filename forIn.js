@@ -4,6 +4,7 @@ const person = {
   city: "Dhaka",
 };
 
+
 for (const key in person) {
   console.log(key, person[key]);
 }
